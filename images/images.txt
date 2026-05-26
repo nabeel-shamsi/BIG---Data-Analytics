@@ -1,0 +1,1 @@
+This folder contains proof as an images for storing Dataset in hadoop.
